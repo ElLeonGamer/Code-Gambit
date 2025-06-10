@@ -3,7 +3,6 @@ function card_effect(){
 
 }
 
-
 active = true
 owner = noone
 CardSlot = noone
